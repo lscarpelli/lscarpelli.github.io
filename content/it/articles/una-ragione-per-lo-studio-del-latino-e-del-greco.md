@@ -6,7 +6,7 @@ featured_image: ""
 tags: []
 draft: false
 file: "/pdf/articles/Una ragione per lo studio del latino e del greco.pdf"
-weight: 2
+weight: 3
 ---
 
 Il dibattito sulle ragioni dello studio del latino e del greco è molto vivo, e non intendo qui darne una sintesi. Basta svolgere una ricerca in rete per rendersi conto della vastità della discussione in corso e delle motivazioni avanzate sia in favore che contro.

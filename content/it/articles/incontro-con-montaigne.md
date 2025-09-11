@@ -6,7 +6,7 @@ featured_image: ""
 tags: []
 draft: false
 file: "/pdf/articles/Incontro con Montaigne.pdf"
-weight: 10
+weight: 11
 ---
 
 Ho incontrato un uomo del ’500, si chiama Michel de Montaigne. L’ho incontrato in carne e ossa (benché sia morto nel 1592) leggendo la sua opera, i *Saggi*.

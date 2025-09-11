@@ -6,7 +6,7 @@ tags: []
 title: "Un ritiro nella natura"
 draft: false
 file: "/pdf/articles/Un ritiro nella natura.pdf"
-weight: 1
+weight: 2
 
 ---
 

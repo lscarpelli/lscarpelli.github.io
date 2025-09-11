@@ -6,7 +6,7 @@ featured_image: ""
 tags: []
 draft: false
 file: "/pdf/articles/Incontro con Lin Yutang - seconda parte.pdf"
-weight: 13
+weight: 14
 ---
 Eccoci alla seconda e ultima parte del mio incontro con Lin Yutang (LY).
 

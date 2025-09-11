@@ -6,7 +6,7 @@ featured_image: ""
 tags: []
 draft: false
 file: "/pdf/articles/Tutti i gusti son gusti.pdf"
-weight: 15
+weight: 16
 ---
 Uno degli spettacoli più bizzarri offerti dalla specie umana sono i comportamenti connessi ai gusti.
 

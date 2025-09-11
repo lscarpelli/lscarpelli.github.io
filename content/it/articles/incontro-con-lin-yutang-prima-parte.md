@@ -6,7 +6,7 @@ featured_image: ""
 tags: []
 draft: false
 file: "/pdf/articles/Incontro con Lin Yutang - prima parte.pdf"
-weight: 12
+weight: 13
 ---
 Questa volta vi scrivo di un libro che mi ha folgorato. È un antidepressivo potente, e del tutto privo di effetti collaterali. Comunica gioia di vivere. Può causare una certa qual dipendenza e indurre il desiderio di leggere gli altri libri del suo autore, che sono nella maggior parte romanzi, ma non produce tolleranza.
 

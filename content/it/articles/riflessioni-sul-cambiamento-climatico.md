@@ -6,7 +6,7 @@ featured_image: ""
 tags: []
 draft: false
 file: "/pdf/articles/Riflessioni sul cambiamento climatico.pdf"
-weight: 6
+weight: 7
 ---
 Queste riflessioni non hanno carattere di sistematicità, e traggono spunto da un tema, quello del cambiamento climatico, che dò per conosciuto nei suoi tratti generali. Inoltre scrivo queste righe sulla base di due presupposti che non discuto in questa sede: (i) che il cambiamento climatico sia in corso; (ii) che esso sia in buona parte di origine antropica, a causa di fenomeni come l’aumento dei gas serra in atmosfera derivanti dalle attività umane e i cambiamenti nell’uso del suolo.
 
