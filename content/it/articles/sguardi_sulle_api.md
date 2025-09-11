@@ -1,5 +1,5 @@
 ---
-date: 2025-11-09T10:58:08-04:00
+date: 2025-09-11T10:58:08-04:00
 title: "Sguardi sulle api"
 description: ""
 featured_image: ""
