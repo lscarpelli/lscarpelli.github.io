@@ -8,7 +8,7 @@ Gli articoli non sono identici a quelli pubblicati perché nel rileggerli per in
 Di seguito l’elenco, nell’ordine in cui appaiono nel sito.
 
 
-1) [Il problema del pacchetto](/articles/il_problema_del_pacchetto/)
+1) [Il problema del pacchetto](/articles/il_problema-_del_pacchetto/)
 2) [Sguardi sulle api](/articles/sguardi_sulle_api/)
 3) [Un ritiro nella natura](/articles/un-ritiro-nella-natura/)
 4) [Una ragione per lo studio del latino e del greco](/articles/una-ragione-per-lo-studio-del-latino-e-del-greco/)
