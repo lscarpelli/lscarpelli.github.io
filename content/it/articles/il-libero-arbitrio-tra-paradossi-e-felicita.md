@@ -6,7 +6,7 @@ featured_image: ""
 tags: []
 draft: false
 file: "/pdf/articles/Il libero arbitrio tra paradossi e felicita.pdf"
-weight: 8
+weight: 9
 ---
 
 Quello dell'esistenza o meno del libero arbitrio è tema sul quale la bibliografia è sterminata, ma tanto si è discusso, tanto si è scritto, e poco si è concluso. Le opinioni di filosofi e scienziati sono tuttora le più disparate, e non sembra che vi sia stato un concreto avvicinamento alla soluzione del dilemma. Naturalmente, non è in alcun modo pretesa di questo intervento quella di condurre a una qualsiasi soluzione. Mi limito quindi a proporre un’esplorazione della questione sotto un profilo meramente logico, per vedere se tale approccio possa fornire un qualche contributo per ulteriori riflessioni critiche. La seconda parte del presente articolo, invece, riguarda il fenomeno esperienziale (in tema di felicità) che può conseguire all’attuale impossibilità di risolvere il problema.

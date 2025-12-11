@@ -6,7 +6,7 @@ featured_image: ""
 tags: []
 draft: false
 file: "/pdf/articles/Alle origini dell'energia.pdf"
-weight: 4
+weight: 5
 ---
 
 Senza energia non v’è lavoro (= capacità di produrre cambiamenti); senza lavoro non v’è vita. Tutto quello che un essere vivente fa richiede energia.

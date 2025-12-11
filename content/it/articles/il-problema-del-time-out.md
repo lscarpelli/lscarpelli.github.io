@@ -6,7 +6,7 @@ featured_image: ""
 tags: []
 draft: false
 file: "/pdf/articles/Il problema del time out.pdf"
-weight: 5
+weight: 6
 ---
 
 In alcuni sport di squadra (pallacanestro, pallavolo, pallamano) esiste la possibilità di una sospensione temporanea del gioco, richiesta da una squadra. Durante questo lasso di tempo l'allenatore può parlare con i giocatori, analizzare con loro lo svolgimento della partita, dare tutti i consigli che vuole. Si tratta di un fenomeno diverso dalle interruzioni del gioco che possono avvenire in tutti gli sport in virtù delle vicende del gioco stesso (per esempio, l’infortunio di un giocatore; oppure gli intervalli istituzionali del gioco). La caratteristica del *time out* è quella di essere una sospensione non programmata (come invece è l’intervallo) e al contempo voluta proprio allo scopo di riflettere sull’andamento della partita.

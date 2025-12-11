@@ -6,7 +6,7 @@ featured_image: ""
 tags: []
 draft: false
 file: "/pdf/articles/Scontro con Montaigne.pdf"
-weight: 12
+weight: 13
 ---
 In un diverso articolo ho scritto del mio incontro con un uomo del ’500: Michel de Montaigne.
 

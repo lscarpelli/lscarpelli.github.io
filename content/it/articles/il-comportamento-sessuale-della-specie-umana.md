@@ -6,7 +6,7 @@ featured_image: ""
 tags: []
 draft: false
 file: "/pdf/articles/Il comportamento sessuale della specie umana.pdf"
-weight: 10
+weight: 11
 ---
 
 La cronaca abbonda di notizie relative alle molestie sessuali dei maschi sulle femmine della specie umana, ivi comprese le violenze all’interno della famiglia. La storia dei conflitti umani è piena di narrazioni di stupri e di altre violazioni ad opera degli uomini sulle donne, *a latere* delle vicende propriamente belliche. La pornografia e la prostituzione, a loro volta, sono industrie con un solo genere di clienti: i maschi (esiste una loro versione rivolta alle donne, ma è del tutto marginale). Per il gesto estremo si è perfino coniato un termine specifico: femminicidio.

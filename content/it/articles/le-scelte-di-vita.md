@@ -6,7 +6,7 @@ featured_image: ""
 tags: []
 draft: false
 file: "/pdf/articles/Le scelte di vita.pdf"
-weight: 9
+weight: 10
 ---
 Dove vi è scelta vi è libertà (nel senso filosofico del libero arbitrio). La scelta implica infatti l’espressione di una preferenza in un contesto di possibilità diverse. Per preferire un’opzione occorre essere liberi di poterla anche scartare. Discutere di scelte implica quindi ammettere l’esistenza del libero arbitrio.
 
