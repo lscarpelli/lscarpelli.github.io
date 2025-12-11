@@ -45,6 +45,6 @@ Mi sono quindi detto più volte: “era un pacchetto, mio caro!”, “era un pr
 Meglio a mio avviso (non ho qui lo spazio per cercare di dimostrarlo) soffrire per ciò cui si tiene, che rinunciare a qualcosa di prezioso solo per non dover affrontare le sue inevitabili ombre.
 
 
-###### AArticolo pubblicato (con una piccola variazione) in Pegaso n. 224, gennaio-aprile 2026
+###### Articolo pubblicato (con una piccola variazione) in Pegaso n. 224, gennaio-aprile 2026
 
 
