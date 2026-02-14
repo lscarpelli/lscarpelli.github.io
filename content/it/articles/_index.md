@@ -1,11 +1,9 @@
 ---
 title: "Gli articoli"
-date: 2024-21-02T12:00:00-05:00
+date: 2026-14-02T12:00:00-05:00
 
 ---
-Gli articoli sono stati pubblicati originariamente in Pegaso, rivista solo cartacea fondata nel 1929 da Ugo Ojetti, chiusa nel 1933, riaperta nel 1976, e che da allora non ha più sospeso le pubblicazioni (per maggiori dettagli rinvio alla relativa voce su Wikipedia).
-Gli articoli non sono identici a quelli pubblicati perché nel rileggerli per inserirli nel sito mi è venuta voglia di fare qualche ritocco, ma la sostanza non cambia. È possibile scaricarli in formato pdf.
-Di seguito l’elenco, nell’ordine in cui appaiono nel sito.
+Gli articoli sono stati pubblicati originariamente in Pegaso, rivista solo cartacea fondata nel 1929 da Ugo Ojetti, chiusa nel 1933, riaperta nel 1976, e che da allora non ha più sospeso le pubblicazioni (per maggiori dettagli rinvio alla relativa voce su Wikipedia). Fa eccezione l'articolo "La riforma costituzionale del CSM", pubblicato in versione parzialmente ridotta nella rivista online “Diritto, Giustizia e Costituzione”, in data 16 dicembre 2025. È possibile scaricare gli articoli in formato pdf. Di seguito l’elenco, nell’ordine in cui appaiono nel sito.
 
 
 1) [La riforma costituzionale del CSM](/articles/la-riforma-costituzionale-del-csm/)
