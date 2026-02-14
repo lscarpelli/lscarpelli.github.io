@@ -8,7 +8,7 @@ Gli articoli non sono identici a quelli pubblicati perché nel rileggerli per in
 Di seguito l’elenco, nell’ordine in cui appaiono nel sito.
 
 
-1) [La riforma costituzionale del CSM](/articles/la-riforma-costituzionale-del-CSM/)
+1) [La riforma costituzionale del CSM](/articles/la-riforma-costituzionale-del-csm/)
 2) [Il problema del pacchetto](/articles/il_problema-_del_pacchetto/)
 3) [Sguardi sulle api](/articles/sguardi_sulle_api/)
 4) [Un ritiro nella natura](/articles/un-ritiro-nella-natura/)
