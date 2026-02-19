@@ -19,7 +19,7 @@ Ho creato questo sito per condividere le mie riflessioni con un maggior numero d
 Ci sono delle idee, in questi testi, su cui si può essere d'accordo oppure no; oppure che possono essere in parte proprio sbagliate, ma la cosa non mi preoccupa. Mi piacerebbe una loro maggior diffusione perché ho constatato che suscitano dibattiti interessanti; fanno riflettere, così come ho dovuto riflettere io (e studiare) per tirarle giù. Generano dialoghi.
 
 Amo il dialogo che coinvolge tutti i sensi, cosa possibile solo in presenza fisica delle persone. Altrimenti si perdono una quantità di “armonici naturali”, come accade se si ascolta una sinfonia sullo smartphone invece che dal vivo in teatro. Gli sguardi, i profumi, i gesti, i contatti fisici, i silenzi, la postura del corpo, i rumori di fondo, il ritmo di tutto ciò: un dialogo ricco non può farne a meno e permette una vera comunicazione. Non desidero niente di meno di una comunicazione vera.
-Nella sezione *Gli articoli* si trovano gli scritti principali pubblicati principalmente sulla rivista Pegaso.
+Nella sezione *Gli articoli* si trovano gli scritti principali pubblicati generalmente sulla rivista Pegaso.
 
 Nella sezione *Laboratorio* ho inserito i due testi che ho scritto per fondare il “Laboratorio arte del vivere”, da me ideato. Sono anch’essi collegati alla ricerca esistenziale, e in particolare allo sviluppo di relazioni profonde fra le persone.
 Vi è infine una sezione chiamata *Miniature*, dove si trovano brevi articoli di una quindicina di righe apparsi anch’essi su Pegaso, e un minuscolo *Manuale degli scacchi per pigroni*.
