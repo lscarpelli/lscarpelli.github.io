@@ -1,5 +1,5 @@
 ---
-date: 2026-11-03T10:58:08-04:00
+date: 2026-09-03T10:58:08-04:00
 title: "La riforma costituzionale del CSM"
 description: ""
 featured_image: ""
