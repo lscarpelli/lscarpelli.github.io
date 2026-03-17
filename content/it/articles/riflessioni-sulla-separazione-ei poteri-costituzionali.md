@@ -1,6 +1,6 @@
 ---
 date: 2026-16-03T10:58:08-04:00
-title: "La riforma costituzionale del CSM"
+title: "Riflessioni sulla separazione dei poteri costituzionali"
 description: ""
 featured_image: ""
 tags: []
