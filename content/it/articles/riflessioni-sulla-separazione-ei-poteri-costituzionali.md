@@ -6,7 +6,7 @@ featured_image: ""
 tags: []
 draft: false
 file: "/pdf/articles/Riflessioni sulla separazione dei poteri costituzionali.pdf"
-weight: 1
+weight: 2
 
 ---
 In un precedente articolo (“La riforma costituzionale del CSM”, in questo sito) ho mostrato che la riforma costituzionale che saremo chiamati a valutare in occasione del referendum aumenta il peso del potere politico e riduce quello della magistratura all’interno del suo organo di autogoverno. Ciò sia in relazione alla funzione di amministrazione delle carriere dei giudici (a partire dall’ingresso nella funzione), che a quella disciplinare.

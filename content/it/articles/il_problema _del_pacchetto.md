@@ -6,7 +6,7 @@ featured_image: ""
 tags: []
 draft: false
 file: "/pdf/articles/Il problema del pacchetto.pdf"
-weight: 3
+weight: 4
 ---
 Chiamo “pacchetto” quell’insieme di caratteristiche proprie di una certa entità, in parte positive, in parte negative, in parte neutre, che non possono essere separate le une dalle altre.
 

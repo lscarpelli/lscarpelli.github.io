@@ -6,7 +6,7 @@ featured_image: ""
 tags: []
 draft: false
 file: "/pdf/articles/Appunti sul viaggio.pdf"
-weight: 20
+weight: 21
 
 ---
 

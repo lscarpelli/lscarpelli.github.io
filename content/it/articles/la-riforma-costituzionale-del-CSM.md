@@ -6,7 +6,7 @@ featured_image: ""
 tags: []
 draft: false
 file: "/pdf/articles/La riforma costituzionale del CSM.pdf"
-weight: 2
+weight: 3
 
 ---
 Sommario: Premessa. – 1. La questione del condizionamento della magistratura da parte del potere esecutivo. – 2. La separazione delle carriere. – 3. L’introduzione di due C.S.M. separati. – 4. L’estrazione a sorte dei membri togati dei due CSM: la violazione del principio di rappresentanza democratica. – 5. L’Alta Corte disciplinare. – 5.1. L’estrazione a sorte. – 5.2. La composizione. – 5.3. La disciplina delle impugnazioni. – 6. Valutazione complessiva.
