@@ -14,7 +14,7 @@ Gli articoli sono stati pubblicati generalmente in Pegaso, rivista solo cartacea
 6) [Un ritiro nella natura](/articles/un-ritiro-nella-natura/)
 7) [Una ragione per lo studio del latino e del greco](/articles/una-ragione-per-lo-studio-del-latino-e-del-greco/)
 8) [Alle origini dell’energia](/articles/alle-origini-dell-energia/)
-9)[Il problema del “time out”](/articles/il-problema-del-time-out/)
+9) [Il problema del “time out”](/articles/il-problema-del-time-out/)
 10) [Alle origini della felicità](/articles/alle-origini-della-felicita)
 11) [Riflessioni sul cambiamento climatico](/articles/riflessioni-sul-cambiamento-climatico/)
 12) [Il libero arbitrio tra paradossi e felicità](/articles/il-libero-arbitrio-tra-paradossi-e-felicita/)
